@@ -1,13 +1,13 @@
 //
-//  Tests_macOSLaunchTests.swift
-//  Tests macOS
+//  S704UITestsLaunchTests.swift
+//  S704UITests
 //
-//  Created by kwp-macbook-pro on 2022/07/04.
+//  Created by kwp-macbook-pro on 8/29/24.
 //
 
 import XCTest
 
-class Tests_macOSLaunchTests: XCTestCase {
+final class S704UITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
