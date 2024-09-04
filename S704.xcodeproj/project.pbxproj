@@ -17,6 +17,19 @@
 		0AD8D82C2C8036F000EC733A /* S704Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AD8D82B2C8036F000EC733A /* S704Tests.swift */; };
 		0AD8D8362C8036F000EC733A /* S704UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AD8D8352C8036F000EC733A /* S704UITests.swift */; };
 		0AD8D8382C8036F000EC733A /* S704UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AD8D8372C8036F000EC733A /* S704UITestsLaunchTests.swift */; };
+		0AE77E912C884D3B00E4BB45 /* SubscribeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77E902C884D3B00E4BB45 /* SubscribeVC.swift */; };
+		0AE77E932C884D4900E4BB45 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77E922C884D4900E4BB45 /* LoginVC.swift */; };
+		0AE77E952C884D5400E4BB45 /* SplashVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77E942C884D5400E4BB45 /* SplashVC.swift */; };
+		0AE77E972C884D6600E4BB45 /* Auth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77E962C884D6600E4BB45 /* Auth.swift */; };
+		0AE77E992C884D7700E4BB45 /* AuthGoogle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77E982C884D7700E4BB45 /* AuthGoogle.swift */; };
+		0AE77E9B2C884D8300E4BB45 /* Content.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77E9A2C884D8300E4BB45 /* Content.swift */; };
+		0AE77E9D2C884D9000E4BB45 /* ContentYoutube.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77E9C2C884D9000E4BB45 /* ContentYoutube.swift */; };
+		0AE77E9F2C884DA100E4BB45 /* ModelGoogle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77E9E2C884DA100E4BB45 /* ModelGoogle.swift */; };
+		0AE77EA12C884DA800E4BB45 /* RequestGoogle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77EA02C884DA800E4BB45 /* RequestGoogle.swift */; };
+		0AE77EA32C884DB400E4BB45 /* RequestYoutube.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77EA22C884DB400E4BB45 /* RequestYoutube.swift */; };
+		0AE77EA52C884DC200E4BB45 /* ModelYoutube.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77EA42C884DC200E4BB45 /* ModelYoutube.swift */; };
+		0AE77EA92C884FD100E4BB45 /* RequestRemoteApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77EA82C884FD100E4BB45 /* RequestRemoteApi.swift */; };
+		0AE77EAB2C88500000E4BB45 /* RequestType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AE77EAA2C88500000E4BB45 /* RequestType.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +64,19 @@
 		0AD8D8312C8036F000EC733A /* S704UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = S704UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AD8D8352C8036F000EC733A /* S704UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S704UITests.swift; sourceTree = "<group>"; };
 		0AD8D8372C8036F000EC733A /* S704UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = S704UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0AE77E902C884D3B00E4BB45 /* SubscribeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscribeVC.swift; sourceTree = "<group>"; };
+		0AE77E922C884D4900E4BB45 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		0AE77E942C884D5400E4BB45 /* SplashVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashVC.swift; sourceTree = "<group>"; };
+		0AE77E962C884D6600E4BB45 /* Auth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auth.swift; sourceTree = "<group>"; };
+		0AE77E982C884D7700E4BB45 /* AuthGoogle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthGoogle.swift; sourceTree = "<group>"; };
+		0AE77E9A2C884D8300E4BB45 /* Content.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Content.swift; sourceTree = "<group>"; };
+		0AE77E9C2C884D9000E4BB45 /* ContentYoutube.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentYoutube.swift; sourceTree = "<group>"; };
+		0AE77E9E2C884DA100E4BB45 /* ModelGoogle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelGoogle.swift; sourceTree = "<group>"; };
+		0AE77EA02C884DA800E4BB45 /* RequestGoogle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestGoogle.swift; sourceTree = "<group>"; };
+		0AE77EA22C884DB400E4BB45 /* RequestYoutube.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestYoutube.swift; sourceTree = "<group>"; };
+		0AE77EA42C884DC200E4BB45 /* ModelYoutube.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelYoutube.swift; sourceTree = "<group>"; };
+		0AE77EA82C884FD100E4BB45 /* RequestRemoteApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestRemoteApi.swift; sourceTree = "<group>"; };
+		0AE77EAA2C88500000E4BB45 /* RequestType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestType.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,13 +127,12 @@
 		0AD8D8102C8036EF00EC733A /* S704 */ = {
 			isa = PBXGroup;
 			children = (
+				0AE77E7E2C884B1300E4BB45 /* Domain */,
+				0AE77E7D2C884B0B00E4BB45 /* Repositories */,
+				0AE77E7F2C884B2000E4BB45 /* View */,
 				0AD8D8112C8036EF00EC733A /* AppDelegate.swift */,
-				0AD8D8132C8036EF00EC733A /* SceneDelegate.swift */,
-				0AD8D8152C8036EF00EC733A /* ViewController.swift */,
-				0AD8D8172C8036EF00EC733A /* Main.storyboard */,
-				0AD8D81D2C8036F000EC733A /* Assets.xcassets */,
-				0AD8D81F2C8036F000EC733A /* LaunchScreen.storyboard */,
 				0AD8D8222C8036F000EC733A /* Info.plist */,
+				0AD8D81D2C8036F000EC733A /* Assets.xcassets */,
 				0AD8D81A2C8036EF00EC733A /* S704.xcdatamodeld */,
 			);
 			path = S704;
@@ -128,6 +153,180 @@
 				0AD8D8372C8036F000EC733A /* S704UITestsLaunchTests.swift */,
 			);
 			path = S704UITests;
+			sourceTree = "<group>";
+		};
+		0AE77E7D2C884B0B00E4BB45 /* Repositories */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77EA62C884FAC00E4BB45 /* Tools */,
+				0AE77E822C884B8200E4BB45 /* Google */,
+				0AE77E802C884B6800E4BB45 /* Youtube */,
+			);
+			path = Repositories;
+			sourceTree = "<group>";
+		};
+		0AE77E7E2C884B1300E4BB45 /* Domain */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E842C884B9D00E4BB45 /* Auth */,
+				0AE77E832C884B9300E4BB45 /* Contents */,
+			);
+			path = Domain;
+			sourceTree = "<group>";
+		};
+		0AE77E7F2C884B2000E4BB45 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E862C884BBE00E4BB45 /* Login */,
+				0AE77E852C884BB100E4BB45 /* Splash */,
+				0AE77E872C884BC800E4BB45 /* Subscribe */,
+				0AD8D81F2C8036F000EC733A /* LaunchScreen.storyboard */,
+				0AD8D8172C8036EF00EC733A /* Main.storyboard */,
+				0AD8D8132C8036EF00EC733A /* SceneDelegate.swift */,
+				0AD8D8152C8036EF00EC733A /* ViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		0AE77E802C884B6800E4BB45 /* Youtube */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E8A2C884CC900E4BB45 /* Model */,
+				0AE77E8B2C884CDC00E4BB45 /* Request */,
+			);
+			path = Youtube;
+			sourceTree = "<group>";
+		};
+		0AE77E822C884B8200E4BB45 /* Google */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E8D2C884CFB00E4BB45 /* Model */,
+				0AE77E8C2C884CEE00E4BB45 /* Request */,
+			);
+			path = Google;
+			sourceTree = "<group>";
+		};
+		0AE77E832C884B9300E4BB45 /* Contents */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E8F2C884D1F00E4BB45 /* Base */,
+				0AE77E882C884C2100E4BB45 /* Youtube */,
+			);
+			path = Contents;
+			sourceTree = "<group>";
+		};
+		0AE77E842C884B9D00E4BB45 /* Auth */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E8E2C884D1800E4BB45 /* Base */,
+				0AE77E892C884C2A00E4BB45 /* Google */,
+			);
+			path = Auth;
+			sourceTree = "<group>";
+		};
+		0AE77E852C884BB100E4BB45 /* Splash */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E942C884D5400E4BB45 /* SplashVC.swift */,
+			);
+			path = Splash;
+			sourceTree = "<group>";
+		};
+		0AE77E862C884BBE00E4BB45 /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E922C884D4900E4BB45 /* LoginVC.swift */,
+			);
+			path = Login;
+			sourceTree = "<group>";
+		};
+		0AE77E872C884BC800E4BB45 /* Subscribe */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E902C884D3B00E4BB45 /* SubscribeVC.swift */,
+			);
+			path = Subscribe;
+			sourceTree = "<group>";
+		};
+		0AE77E882C884C2100E4BB45 /* Youtube */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E9C2C884D9000E4BB45 /* ContentYoutube.swift */,
+			);
+			path = Youtube;
+			sourceTree = "<group>";
+		};
+		0AE77E892C884C2A00E4BB45 /* Google */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E982C884D7700E4BB45 /* AuthGoogle.swift */,
+			);
+			path = Google;
+			sourceTree = "<group>";
+		};
+		0AE77E8A2C884CC900E4BB45 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77EA42C884DC200E4BB45 /* ModelYoutube.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		0AE77E8B2C884CDC00E4BB45 /* Request */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77EA22C884DB400E4BB45 /* RequestYoutube.swift */,
+			);
+			path = Request;
+			sourceTree = "<group>";
+		};
+		0AE77E8C2C884CEE00E4BB45 /* Request */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77EA02C884DA800E4BB45 /* RequestGoogle.swift */,
+			);
+			path = Request;
+			sourceTree = "<group>";
+		};
+		0AE77E8D2C884CFB00E4BB45 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E9E2C884DA100E4BB45 /* ModelGoogle.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		0AE77E8E2C884D1800E4BB45 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E962C884D6600E4BB45 /* Auth.swift */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		0AE77E8F2C884D1F00E4BB45 /* Base */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77E9A2C884D8300E4BB45 /* Content.swift */,
+			);
+			path = Base;
+			sourceTree = "<group>";
+		};
+		0AE77EA62C884FAC00E4BB45 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77EA72C884FB100E4BB45 /* Network */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		0AE77EA72C884FB100E4BB45 /* Network */ = {
+			isa = PBXGroup;
+			children = (
+				0AE77EA82C884FD100E4BB45 /* RequestRemoteApi.swift */,
+				0AE77EAA2C88500000E4BB45 /* RequestType.swift */,
+			);
+			path = Network;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -261,10 +460,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0AE77EA92C884FD100E4BB45 /* RequestRemoteApi.swift in Sources */,
 				0AD8D8162C8036EF00EC733A /* ViewController.swift in Sources */,
 				0AD8D8122C8036EF00EC733A /* AppDelegate.swift in Sources */,
+				0AE77E9F2C884DA100E4BB45 /* ModelGoogle.swift in Sources */,
+				0AE77EA52C884DC200E4BB45 /* ModelYoutube.swift in Sources */,
+				0AE77E932C884D4900E4BB45 /* LoginVC.swift in Sources */,
+				0AE77E9B2C884D8300E4BB45 /* Content.swift in Sources */,
+				0AE77E992C884D7700E4BB45 /* AuthGoogle.swift in Sources */,
 				0AD8D8142C8036EF00EC733A /* SceneDelegate.swift in Sources */,
 				0AD8D81C2C8036EF00EC733A /* S704.xcdatamodeld in Sources */,
+				0AE77EAB2C88500000E4BB45 /* RequestType.swift in Sources */,
+				0AE77E9D2C884D9000E4BB45 /* ContentYoutube.swift in Sources */,
+				0AE77E912C884D3B00E4BB45 /* SubscribeVC.swift in Sources */,
+				0AE77E952C884D5400E4BB45 /* SplashVC.swift in Sources */,
+				0AE77EA12C884DA800E4BB45 /* RequestGoogle.swift in Sources */,
+				0AE77E972C884D6600E4BB45 /* Auth.swift in Sources */,
+				0AE77EA32C884DB400E4BB45 /* RequestYoutube.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
